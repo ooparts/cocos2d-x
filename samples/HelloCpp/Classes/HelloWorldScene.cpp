@@ -90,10 +90,10 @@ bool HelloWorld::init()
 
 void HelloWorld::addTarget()
 {
+	CCSize winSize = CCDirector::sharedDirector()->getWinSize();
 	CCSprite *target = CCSprite::create("Target.png");
 	CCSize size = target->getContentSize();
-
-	CCSize winSize = CCDirector::sharedDirector()->getWinSize();
+	
 	int minY = size.height/2;
 	int maxY = winSize.height - size.height/2;
 	int rangeY = maxY - minY;
