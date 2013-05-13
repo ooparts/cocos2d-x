@@ -101,9 +101,7 @@ void HelloWorld::addTarget()
 
 	// Create the target slightly off-screen along the right edge,
 	// and along a random position along the Y axis as calculated
-	target->setPosition(
-		ccp(winSize.width + (target->getContentSize().width/2), 
-		actualY));
+	target->setPosition( ccp(winSize.width + (target->getContentSize().width/2), actualY) );
 	this->addChild(target);
 
 	// Determine speed of the target
@@ -113,8 +111,8 @@ void HelloWorld::addTarget()
 	int actualDuration = ( rand() % rangeDuration ) + minDuration;
 
 	// Create the actions
-	CCFiniteTimeAction* actionMove = CCMoveTo::create((float)actualDuration, ccp(0 - target->getContentSize().width/2, actualY) );
-	CCFiniteTimeAction* actionMoveDone = CCCallFuncN::create(this,callfuncN_selector(HelloWorld::spriteMoveFinished));
+	CCFiniteTimeAction* actionMove = CCMoveTo::create( (float)actualDuration, ccp(0 - target->getContentSize().width/2, actualY) );
+	CCFiniteTimeAction* actionMoveDone = CCCallFuncN::create( this,callfuncN_selector(HelloWorld::spriteMoveFinished) );
 
 	target->runAction( CCSequence::create(actionMove, actionMoveDone, nullptr) );
 }
@@ -166,7 +164,7 @@ void HelloWorld::ccTouchesEnded(CCSet* touches, CCEvent* event)
 
     // Move projectile to actual endpoint
 	CCFiniteTimeAction * moved = CCMoveTo::create(realMoveDuration, realDest);
-	CCFiniteTimeAction * finished = CCCallFuncN::create(this, callfuncN_selector(HelloWorld::spriteMoveFinished));
+	CCFiniteTimeAction * finished = CCCallFuncN::create( this, callfuncN_selector(HelloWorld::spriteMoveFinished) );
 
     projectile->runAction( CCSequence::create(moved, finished, nullptr) );
 }

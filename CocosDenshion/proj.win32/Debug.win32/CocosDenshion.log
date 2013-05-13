@@ -1,0 +1,6 @@
+﻿  SimpleAudioEngine.cpp
+  MciPlayer.cpp
+  코드를 생성하고 있습니다...
+MciPlayer.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+     D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libCocosDenshion.lib 라이브러리 및 D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libCocosDenshion.exp 개체를 생성하고 있습니다.
+  CocosDenshion.vcxproj -> D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libCocosDenshion.dll

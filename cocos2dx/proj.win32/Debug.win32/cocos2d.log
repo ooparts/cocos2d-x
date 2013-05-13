@@ -1,0 +1,142 @@
+﻿  cocos2d.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CCScheduler.cpp
+  CCDrawingPrimitives.cpp
+  CCDirector.cpp
+  CCConfiguration.cpp
+  CCCamera.cpp
+  ccShaders.cpp
+  CCShaderCache.cpp
+  ccGLStateCache.cpp
+  CCGLProgram.cpp
+  CCScriptSupport.cpp
+  CCTextFieldTTF.cpp
+  CCIMEDispatcher.cpp
+  CCKeypadDispatcher.cpp
+  CCKeypadDelegate.cpp
+  CCTouchHandler.cpp
+  CCTouchDispatcher.cpp
+  CCTouch.cpp
+  CCTMXXMLParser.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\tilemap_parallax_nodes\cctmxxmlparser.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CCTMXTiledMap.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CCTMXObjectGroup.cpp
+  CCTMXLayer.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CCTileMapAtlas.cpp
+  CCParallaxNode.cpp
+  CCTexturePVR.cpp
+  CCTextureCache.cpp
+  CCTextureAtlas.cpp
+  CCTexture2D.cpp
+  ZipUtils.cpp
+  unzip.cpp
+  ioapi.cpp
+  TGAlib.cpp
+  ccCArray.cpp
+  TransformUtils.cpp
+  CCVertex.cpp
+  ccUtils.cpp
+  CCUserDefault.cpp
+  CCProfiling.cpp
+  CCPointExtension.cpp
+  CCNotificationCenter.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  base64.cpp
+  CCSpriteFrameCache.cpp
+  CCSpriteFrame.cpp
+  CCSpriteBatchNode.cpp
+  CCSprite.cpp
+  CCAnimationCache.cpp
+  CCAnimation.cpp
+  CCStdC.cpp
+  CCImage.cpp
+  CCFileUtils.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CCEGLView.cpp
+  CCCommon.cpp
+  CCApplication.cpp
+  CCAccelerometer.cpp
+  platform.cpp
+  CCThread.cpp
+  CCSAXParser.cpp
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CCEGLViewProtocol.cpp
+  CCParticleSystemQuad.cpp
+  CCParticleSystem.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CCParticleExamples.cpp
+  CCParticleBatchNode.cpp
+  CCRenderTexture.cpp
+  CCProgressTimer.cpp
+  CCMotionStreak.cpp
+  CCMenuItem.cpp
+  CCMenu.cpp
+  CCTransitionProgress.cpp
+  CCTransitionPageTurn.cpp
+  CCTransition.cpp
+  CCScene.cpp
+  CCLayer.cpp
+  CCLabelTTF.cpp
+  CCLabelBMFont.cpp
+  CCLabelAtlas.cpp
+  CCActionTween.cpp
+  CCActionTiledGrid.cpp
+  CCActionProgressTimer.cpp
+  CCActionPageTurn3D.cpp
+  CCActionManager.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CCActionInterval.cpp
+  CCActionInstant.cpp
+  CCActionGrid3D.cpp
+  CCActionGrid.cpp
+  CCActionEase.cpp
+  CCActionCatmullRom.cpp
+  CCActionCamera.cpp
+  CCAction.cpp
+  CCGrid.cpp
+  CCGrabber.cpp
+  CCZone.cpp
+  CCString.cpp
+  CCSet.cpp
+  CCObject.cpp
+  CCNS.cpp
+  CCGeometry.cpp
+  CCDictionary.cpp
+  CCAutoreleasePool.cpp
+  CCArray.cpp
+  CCAffineTransform.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CCNode.cpp
+  CCAtlasNode.cpp
+  코드를 생성하고 있습니다...
+  matrix.c
+  mat4stack.c
+  vec4.c
+  vec3.c
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\kazmath\src\vec3.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  vec2.c
+  utility.c
+  ray2.c
+  quaternion.c
+  plane.c
+d:\my_dev\cocos2d-2.0-x-2.0.4\cocos2dx\kazmath\src\plane.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  neon_matrix_impl.c
+  mat4.c
+  mat3.c
+  aabb.c
+  코드를 생성하고 있습니다...
+  16개 파일이 복사되었습니다.
+CCAtlasNode.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+     D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libcocos2d.lib 라이브러리 및 D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libcocos2d.exp 개체를 생성하고 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  cocos2d.vcxproj -> D:\My_Dev\cocos2d-2.0-x-2.0.4\Debug.win32\libcocos2d.dll
